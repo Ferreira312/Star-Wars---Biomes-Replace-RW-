@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Star Wars Biomes Addon\Assemblies\StarWarsBiomesReplace.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Star Wars Biomes Addon\Source\StarWarsBiomesReplace\StarWarsBiomesReplace\obj\Debug\StarWarsBiomesReplace.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Star Wars Biomes Addon\Source\StarWarsBiomesReplace\StarWarsBiomesReplace\obj\Debug\StarWarsBiomesReplace.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Star Wars Biomes Replace\Assemblies\StarWarsBiomesReplace.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Star Wars Biomes Replace\Source\StarWarsBiomesReplace\StarWarsBiomesReplace\obj\Debug\StarWarsBiomesReplace.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Star Wars Biomes Replace\Source\StarWarsBiomesReplace\StarWarsBiomesReplace\obj\Debug\StarWarsBiomesReplace.dll

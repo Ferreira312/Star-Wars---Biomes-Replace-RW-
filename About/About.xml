@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[RW] Star Wars - Biomes Replace</name>
+	<author>FantasyFan, Lumi</author>
+  <supportedVersions>
+    <li>1.1</li>
+	<li>1.2</li>
+  </supportedVersions>
+  <packageId>fantasyfan.swbiomesreplace</packageId>
+	<description>
+Have you ever wanted to live on the star wars planets. Now you can.
+
+This mod changes the default biomes to star wars planets:
+-Temperate forest	-->		Endor
+-Temperate swamp	-->		Dagobah
+-Tropical forest	-->		Kashyyyk
+-Tropical swamp		-->		Naboo
+-Arid shrubland		-->		Tatooine
+-Desert				-->		Geonosis
+-Extreme desert		-->		Mustafar
+-Cold bog			-->		Dathomir
+-Ice sheet			-->		Hoth
+-Lake				-->		Kamino (Lake tiles can now to be settled and are passable)
+-Boreal forest		-->		Crait
+-Bespin		(Custom biome) (Do not use mountain tiles, looks awful)
+-Felucia	(Custom biome)
+-Scarif		(Custom biome) (Do not use coast tiles, looks awful)
+-Yavin IV 	(Custom biome)
+
+
+
+Redwood tree and fern textures by tkkntkkn (Nature's Pretty Sweet).
+Lava texture by Hey my team rules! (Advanced Biomes).
+
+
+If you find things unbalanced, please make suggestions for improvement.
+	</description>
+</ModMetaData>

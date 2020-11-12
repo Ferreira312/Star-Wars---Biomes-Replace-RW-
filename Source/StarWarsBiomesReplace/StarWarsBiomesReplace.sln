@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsBiomesReplace", "StarWarsBiomesReplace\StarWarsBiomesReplace.csproj", "{53CE8D3A-BB2C-4CF0-B991-B8357F0BA9D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CE8D3A-BB2C-4CF0-B991-B8357F0BA9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CE8D3A-BB2C-4CF0-B991-B8357F0BA9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CE8D3A-BB2C-4CF0-B991-B8357F0BA9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CE8D3A-BB2C-4CF0-B991-B8357F0BA9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
