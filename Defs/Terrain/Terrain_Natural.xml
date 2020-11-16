@@ -119,19 +119,19 @@
         <fertility>0</fertility>
     </TerrainDef>
 	
-	<!-- Verificar Sunflare effect================================================================================================-->
+	
     <TerrainDef ParentName="NaturalTerrainBase">
         <defName>BespinGas</defName>
         <label>gas</label>
         <texturePath>Terrain/BespinGas</texturePath>
-        <!--<waterDepthShader>Map/WaterDepth</waterDepthShader>-->
         <renderPrecedence>394</renderPrecedence>
         <driesTo>BespinGas</driesTo>
         <pathCost>70</pathCost>
         <affordances>
             <li>GasBridgeable</li>
         </affordances>
-        <edgeType>Water</edgeType>
+        <edgeType>FadeRough</edgeType> <!--Isto está a causar o solar flare effect "water"-->
+		<!--<waterDepthShader>Map/WaterDepth</waterDepthShader>-->
         <fertility>0</fertility>
         <avoidWander>true</avoidWander>
         <holdSnow>false</holdSnow>

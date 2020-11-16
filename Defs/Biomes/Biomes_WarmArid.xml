@@ -72,11 +72,8 @@
 		</terrainsByFertility>
 		<baseWeatherCommonalities>
 			<Clear>18</Clear>
-			<Rain>0</Rain>
-			<DryThunderstorm>0</DryThunderstorm>
-			<RainyThunderstorm>0</RainyThunderstorm>
-			<SnowGentle>0</SnowGentle>
-			<SnowHard>0</SnowHard>
+			<Drysandstorm>3</Drysandstorm>
+			<Sandstorm>9</Sandstorm>
 		</baseWeatherCommonalities>
 		<!--Fauna&Flora--> 
 		<wildAnimals>
@@ -154,13 +151,13 @@
 		</terrainsByFertility>
 		<baseWeatherCommonalities>
 			<Clear>18</Clear>
-			<Rain>0</Rain>
-			<DryThunderstorm>1</DryThunderstorm>
-			<RainyThunderstorm>0</RainyThunderstorm>
-			<SnowGentle>0</SnowGentle>
-			<SnowHard>0</SnowHard>
+			<Drysandstorm>1</Drysandstorm>
+			<Sandstorm>6</Sandstorm>
 		</baseWeatherCommonalities>
-		<!--Fauna&Flora--> 
+		<!--Fauna&Flora-->
+		<wildAnimals>
+			<Rat>0.01</Rat>
+		</wildAnimals>
 		<allowedPackAnimals>
 			<li>Muffalo</li>
 			<li>Dromedary</li>
@@ -242,13 +239,13 @@
 		</terrainPatchMakers>
 		<baseWeatherCommonalities>
 			<Clear>18</Clear>
-			<Rain>0</Rain>
-			<DryThunderstorm>10</DryThunderstorm>
-			<RainyThunderstorm>0</RainyThunderstorm>
-			<SnowGentle>0</SnowGentle>
-			<SnowHard>0</SnowHard>
+			<Drysandstorm>10</Drysandstorm>
+			<Sandstorm>15</Sandstorm>
 		</baseWeatherCommonalities>
 		<!--Fauna&Flora--> 
+		<wildAnimals>
+			<Rat>0.01</Rat>
+		</wildAnimals>
 		<allowedPackAnimals>
 		  <li>Muffalo</li>
 		  <li>Dromedary</li>

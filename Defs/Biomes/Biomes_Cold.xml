@@ -227,6 +227,9 @@
 			<SnowHard>40</SnowHard>
 		</baseWeatherCommonalities>
 		<!--Fauna&Flora--> 
+		<wildAnimals>
+			<Rat>0.01</Rat>
+		</wildAnimals>
 		<allowedPackAnimals>
 			<li>Muffalo</li>
 		</allowedPackAnimals>
@@ -310,6 +313,9 @@
 			<SnowHard>0</SnowHard>
 		</baseWeatherCommonalities>
 		<!--Fauna&Flora--> 
+		<wildAnimals>
+			<Rat>0.01</Rat>
+		</wildAnimals>
 		<allowedPackAnimals>
 		  <li>Muffalo</li>
 		</allowedPackAnimals>

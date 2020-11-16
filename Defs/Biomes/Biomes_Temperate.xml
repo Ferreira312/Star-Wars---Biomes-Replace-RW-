@@ -330,9 +330,12 @@
 		</terrainsByFertility>
 		<baseWeatherCommonalities>
 			<BespinClear>50</BespinClear>
-			<Clear>1</Clear>
+			<BespinGas>25</BespinGas>
 		</baseWeatherCommonalities>
 		<!--Fauna&Flora-->
+		<wildAnimals>
+			<Rat>0.01</Rat>
+		</wildAnimals>
 		<allowedPackAnimals>
 			<li>Muffalo</li>
 			<li>Alpaca</li>
